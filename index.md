@@ -1,1 +1,1 @@
-![under construction](/assets/images/under%20constr.png)
+![under construction](/assets/images/under_constr.png)
