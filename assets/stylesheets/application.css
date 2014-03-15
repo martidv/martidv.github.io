@@ -1,0 +1,9 @@
+html, body, p {
+  heigth: 100%;
+}
+
+img {
+    display: block;
+    width: 16em;
+    margin: 15em auto;
+}
